@@ -1,2 +1,2 @@
 # Names Variations 
-Variações de nomes (projeto LearnProgramming) - intuito de mostrar diferentes variações em nomes escritos no input, projeto básico com JavaScript.
+Variações de nomes do projeto LearnProgramming e LearnJavaScript - intuito de mostrar diferentes variações em nomes escritos no input, projeto básico com JavaScript.
