@@ -29,7 +29,7 @@ table {
   margin: auto;
 }
 
-table tr:nth-child(2) {
+table tr:nth-child(2n) {
   background-color: #fafafa;
 }
 
